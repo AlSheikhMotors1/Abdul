@@ -1,0 +1,6 @@
+{
+  "name": "Sunrise School Lodhra",
+  "description": "Professional school management app for Sunrise School Lodhra, Pakistan",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
